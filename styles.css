@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Comic Sans MS', sans-serif;
+    background-color: #000033;
+    color: #ffffff;
+}
+
+.fireworks-container {
+    /* Estilos para las animaciones de fuegos artificiales */
+    /* Puedes usar librerías como Fireworks-js */
+}
+
+.birthday-message {
+    text-align: center;
+    padding: 20px;
+    background-color: #000033;
+    border: 2px solid #333366;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    margin: 0 auto;
+    width: 80%;
+    max-width: 600px;
+}
+
+#opinion {
+    width: 100%;
+    height: 100px;
+    resize: none;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: #000000;
+    background-color: #ffffff;
+}
